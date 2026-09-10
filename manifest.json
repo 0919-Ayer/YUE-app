@@ -1,0 +1,20 @@
+{
+  "name": "传讯 · 梦角",
+  "short_name": "传讯",
+  "description": "与梦角的私密对话",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf6f2",
+  "theme_color": "#e0698a",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
